@@ -1,5 +1,5 @@
 # Creating an App Service 
-This is an exercise for [Udacity's Cloud Developer using Microsoft Azure Nanodegree program] (https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081).
+This is an exercise for [Udacity's Cloud Developer using Microsoft Azure Nanodegree program](https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081).
 
 
 ## Part 2 Azure Applications: Lesson 2: Azure Compute Services: Lesson 2-13: Create an App Service 
